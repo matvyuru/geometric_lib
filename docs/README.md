@@ -46,4 +46,3 @@ For detailed terms, see user_agreement.txt file.
 ### Выполнила: Матвиенко Юлия Алексеевна
 ### Группа: ПрИ-21
 ### Email: 220365@edu.psuti.ru
-### Дата выполнения: $(date +"%d.%m.%Y")
