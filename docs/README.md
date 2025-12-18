@@ -47,3 +47,7 @@ For detailed terms, see user_agreement.txt file.
 ### Группа: ПрИ-21
 ### Email: 220365@edu.psuti.ru
 ### Дата выполнения: $(date +"%d.%m.%Y")
+
+---
+Изменено в ветке: lab-work-feature
+Цель: создание Pull Request в исходный репозиторий
